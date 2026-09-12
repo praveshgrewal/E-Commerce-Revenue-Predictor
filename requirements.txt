@@ -1,0 +1,28 @@
+# ============================================
+# E-Commerce Sales Analysis - Requirements
+# ============================================
+
+# Data Science & Analysis
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+scipy==1.14.0
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+plotly==5.22.0
+
+# Model Persistence
+joblib==1.4.2
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.5
+
+# Streamlit App
+streamlit==1.36.0
+
+# Utilities
+openpyxl==3.1.5
